@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "001 Qual è la condizione patologica?",
+              "id": 397853,
+              "answers": [
+                {
+                  "answer_id": 571154,
+                  "document_id": 720536,
+                  "question_id": 397853,
+                  "text": "STENOSI VALVOLARE AORTICA SEVERA",
+                  "answer_start": 418,
+                  "answer_end": 450,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "002 Qual è l’età?",
+              "id": 397854,
+              "answers": [
+                {
+                  "answer_id": 571152,
+                  "document_id": 720536,
+                  "question_id": 397854,
+                  "text": "74",
+                  "answer_start": 320,
+                  "answer_end": 322,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "003 Qual è il sesso?",
+              "id": 397855,
+              "answers": [
+                {
+                  "answer_id": 571155,
+                  "document_id": 720536,
+                  "question_id": 397855,
+                  "text": "Sig.ra",
+                  "answer_start": 25,
+                  "answer_end": 31,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "005 Quali sono le procedure chirurgiche applicate?",
+              "id": 397857,
+              "answers": [
+                {
+                  "answer_id": 571153,
+                  "document_id": 720536,
+                  "question_id": 397857,
+                  "text": "SOSTITUZIONE \nVALVOLARE  AORTICA",
+                  "answer_start": 479,
+                  "answer_end": 511,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "004 Quali farmaci sono prescritti alla dimissione?",
+              "id": 397856,
+              "answers": [
+                {
+                  "answer_id": 571156,
+                  "document_id": 720536,
+                  "question_id": 397856,
+                  "text": "-  PANTOPRAZOLO 20 mg 1 cp ore 8 \n-  CLOPIDOGREL 75 mg 1 cp dopo pranzo \n-  BISOPROLOLO 1.25 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  RAMIPRIL 5 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  FUROSEMIDE 500 mg ¼ cp alle ore 8 e ¼ alle ore 20 \n-  CANREONATO DI POTASSIO 100 mg ½ cp alle ore 16 \n-  LEVOTIROXINA 100 mcg 1 cp a digiuno alle ore 7 \n-  TIOTROPIO Respimat 2 inalazioni al mattino \n-  LORAZEPAM 1 mg 1 cp alle ore 22 \n-  DOMPERIDONE 1 cp a pranzo e a cena ",
+                  "answer_start": 5645,
+                  "answer_end": 6107,
+                  "answer_category": "LONG"
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "LETTERA DI DIMISSIONE \n \nSig.ra  (nata il )\nPSD001   \n \nSan Donato Milanese, Milano,  28.07.2021 \nAlla cortese attenzione \ndel Medico Curante \n \n \nAlla cortese attenzione  \nEtichetta paziente \nAi Colleghi della  \nDivisione di Cardiologia Riabilitativa \nAosta \n \n \nViene dimessa in data odierna la Sig.ra PSD001, di anni 74, ricoverata presso la nostra Unità Operativa \nin data 19.07.2021.  \n  \nDIAGNOSI DI DIMISSIONE \nSTENOSI VALVOLARE AORTICA SEVERA SOTTOPOSTA AD INTERVENTO DI SOSTITUZIONE \nVALVOLARE  AORTICA  CON  BIOPROTESI  SUTURELESS  EDWARDS  INTUITY  N°  21  IN \nMINISTERNOTOMIA \n \nANAMNESI CARDIOLOGICA \nFdR CV: dislipidemia, ipertensione arteriosa \n \nMDR: stenosi valvolare aortica severa \n \nStoria cardiologica: Da circa 5 mesi riferisce affaticabilità per cui esegue ecocardio che mostra stenosi \nvalvolare aortica severa con grad medio 58 mmHg, con buona contrattilità del vsx. \nAttualmente sintomatica con dispnea per sforzi lievi. \nUltimo ecocardio 24/05/21: calcificazione delle cuspidi aortiche condizionante stenosi aortica severa ( \nPG med: 58 mmHg). FE 67%. Apparato valvolare mitralico rimaneggiato con IM lieve. Vdx con funzione \nconservata (TAPSE 27). IT lieve con PAPs 44 mmHG. \nValutazione CCH ( Dr. Biondi) pone indicazione ad intervento di sostituzione valvolare aortica. \n \nANAMNESI GENERALE \nipotiroidismo in tp ( nodulo tiroideo di 11 mm). Colite cronica e diverticolite. 1966 appendicectomia. \nCalcolosi renale. 1990 peritonite stercoracea da diverticolo perforato a livello del sigma trattata con \ncolostomia, successivamente chiusura colostomia. 1991 intervento per laparocele epigastrico con \napplicazione rete protesica. 2002 intervento in laparoscopia per emilectomia sinistra per diverticolosi, \nsuccessivamente intervento in laparotomia per resezione parziale dell'intestino tenue per quadro di \nocclusione intestinale. 2004 drenaggio percutaneo addominale causa raccolta parete addominale sn--> \necografia addome 2020: nota raccolta ipodensa sottofasciale di 12 cm in epigastrio. In ipogastrio nel \ncontesto del tessuto adiposo sottocutaneo, nota area ipoecogena disomogena del diametro di 14 mm, \nestesa fino al piano cutaneo con noto tramite. 2013 intervento di quadrantectomia della mammella dx. I \ndose vaccino anti covid. \nDisturbi gastrici con ASA, FANS, Plasil (tollera Zofran). \n \nACCERTAMENTI PRE OPERATORI \n \nIn relazione al riscontro di ridotto assetto marziale la paziente è stata trattata con Ferinject 1 g ev in data \n05.07.21. \n \nTampone per Sars-Cov2 (19.07.21): negativo.  \nEsame sierologiclo per SARS Cov2 (05.07.21): negativo per IgM, positivo per IgG con titolo 30 AU/ml. \n \nTampone nasale screening MRSA/MSSA (05.07.21): negativo. \n \nDoppler TSA + Accessi (19.07.21): Bilateralmente si rileva pervietà delle carotidi comune, interna ed \nesterna, con IMT della CCA di 1.1 mm a destra e 0.99 mm a sinistra in assenza di lesioni stenosanti e \ncon reperti velocimetrici nei limiti. Si segnala kinking della carotide interna sinistra emodinamicamente \nnon significativa. Vertebrali bilateralmente pervie ed ortograde in V2. Succlavie bilateralmente pervie \ncon segnale trifasico. ECOCOLORDOPPLER ACCESSI Regolare pervietà delle femorali comune, \nsuperficiale e profonda, con lieve angiosclerosi in assenza di stenosi emodinamiche bilateralmente. A \nDESTRA segnali Doppler diretti e trifasici in femorale comune, superficiale e profonda; diametro arteria \nfemorale comune 9.1 mm. A SINISTRA segnali Doppler diretti e trifasici in femorale comune, superficiale \ne profonda; diametro arteria femorale comune 9.1 mm. Vena femorale comune bilateralmente pervia, \ncomprimibile, flussi fasici ed attivabili. Non segni di TVP. \n \nCoronarografia (19.07.21): coronarie indenni. \n \nINTERVENTO CARDIOCHIRURGICO \nIn data 20.07.21, la pz è stata sottoposta ad intervento di sostituzione valvolare aortica con \nbioprotesi  sutureless  Edwards  Intuity  n°  21  in  ministernotomia,  Dr.  Biondi (Vedi  verbale \nOperatorio allegato). \n \nDECORSO CLINICO POST-OPERATORIO \nTERAPIA INTENSIVA  \n-  Decorso regolare \n \nREPARTO (rientrato il 21.07.21) \n-  Aumentato fabbisogno diuretico \n-  Restante decorso regolare  \n-  Sospesa amlodipina per edemi declivi \n \nECG alla dimissione: ritmo sinusale regolare a 68 bpm, IVS. \n \nRx torace 27.07.21: Rimosso il CVC. Polmoni a parete. Riduzione del versamento pleurico basale \nbilaterale. Invariati i restanti reperti (vedi allegato). \n \nEcocardiogramma TT 27.07.21: Sostituzione valvolare aortica con bioprotesi sutureless Edwards \nIntuity N° 21, normoposta, con gradiente medio del flusso anterogrado di 10 mmHg. Non evidenza di \nflussi  patologici.  Ventricolo  sinistro  di  normali  dimensioni  cavitarie  che  mostra  rimodellamento \nconcentrico, con funzione sistolica conservata (FE 82%). Disfunzione diastolica di grado I. Discinesia \ndel SIV post-CEC. Atrio sinistro dilatato. Setto interatriale integro in assenza apparente di shunt. \nApparato valvolare mitralico discretamente rimaneggiato condizionante IM in tracce. Bulbo aortico ed \naorta ascendente (fin dove esplorabile) di normali dimensioni. Ventricolo destro non dilatato con funzione \nsistolica ridotta per TAPSE= 11. Insufficienza tricuspidalica in tracce con stima indiretta di pressioni del \npiccolo circolo nella norma (PAPs 34 mmHg). Assenza di versamento pericardico (vedi allegato). \n \nTampone per Sars-Cov2 (25.07.2021 - 27.07.2021): negativo.  \n \n \nAl momento della dimissione, paziente in buone condizioni generali, sterno saldo, ferita in ordine, attività \ncardiaca ritmica, normofrequente; MV diffusamente ridotto, edemi declivi in riduzione. \n \nTERAPIA FARMACOLOGICA ALLA DIMISSIONE \n-  PANTOPRAZOLO 20 mg 1 cp ore 8 \n-  CLOPIDOGREL 75 mg 1 cp dopo pranzo \n-  BISOPROLOLO 1.25 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  RAMIPRIL 5 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  FUROSEMIDE 500 mg ¼ cp alle ore 8 e ¼ alle ore 20 \n-  CANREONATO DI POTASSIO 100 mg ½ cp alle ore 16 \n-  LEVOTIROXINA 100 mcg 1 cp a digiuno alle ore 7 \n-  TIOTROPIO Respimat 2 inalazioni al mattino \n-  LORAZEPAM 1 mg 1 cp alle ore 22 \n-  DOMPERIDONE 1 cp a pranzo e a cena \n \nPROFILASSI DELL’ENDOCARDITE BATTERICA \nIn caso di procedure mediche e odontoiatriche invasive o semi-invasive si raccomanda esecuzione di \nprofilassi antibiotica della endocardite batterica secondo lo schema (tipo di Antibiotico, dosi e modalità \ndi assunzione) riportato nel modulo allegato. Nel modulo sono riportate in dettaglio tutte le procedure \nper le quali è indicata l’esecuzione della profilassi antibiotica.  \n \nÈ possibile che alcune delle prescrizioni consigliate non siano a carico del SSN a causa di vincoli di prescrivibilità posti \ndall’Agenzia Italiana del Farmaco (AIFA) e pertanto siano a carico dell’assistito (Art. 3 Legge 08.04.1988 n. 94, \ndeterminazione 29.10.94 suppl. 162 GU 259).  \n \nPROGRAMMA DI CONTINUITÀ DELLE CURE \nSuccessivamente al completamento del programma di riabilitazione, a distanza di circa 2 mesi dalla data \ndell’intervento, il Paziente è atteso per un controllo cardiochirurgico portando in visione Radiografia del \ntorace, Ecocardiogramma color-Doppler, ECG di controllo: la preghiamo di contattare direttamente la \nnostra Segreteria per fissare la data dell’appuntamento.  \n \nRimaniamo a disposizione per ogni eventuale ulteriore informazione o chiarimento.  \n \nCordiali Saluti \n \n   \n \nLe Regole di Sistema della Regione Lombardia prevedono che gli utenti siano informati sui costi che il Servizio \nSanitario Regionale sostiene per le attività di ricovero di cui hanno usufruito.  \nIl valore di € 24457 rappresenta il rimborso corrisposto mediamente agli ospedali della Lombardia per il costo \nsostenuto per il presente ricovero.   \n \nNEL CASO DI ULTERIORI ACCESSI AL NOSTRO ISTITUTO PER VISITE DI CONTROLLO O PER PRESTAZIONI \nAMBULATORIALI LE RICORDIAMO DI PORTARE CON SE QUESTA RELAZIONE DI DIMISSIONE, UNITAMENTE A TUTTA \nLA DOCUMENTAZIONE DI ORDINE CLINICO CHE LE È STATA RILASCIATA AL MOMENTO DELLA DIMISSIONE ",
+          "document_id": 720536
+        }
+      ]
+    }
+  ]
+}
