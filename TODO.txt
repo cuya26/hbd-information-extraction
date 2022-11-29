@@ -1,11 +1,13 @@
 TODO list:
 - Write documentation [Claudio]
 - Add translation code to repo [Claudio]
-- Add BLEU score (check that code is correct) [Giuseppe]
 - How to infere sex?
 - How to annotate text with more possible answers?
 - Retrieve MVD (minimum value dataset)
 - Integrate MVD with values from Andrea and basic WG1 questions
+
+DONE: 
+- Add BLEU score (check that code is correct) [Giuseppe]
 
 MILESTONES:
 - Implement pipeline script [DONE]
