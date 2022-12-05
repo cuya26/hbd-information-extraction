@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "001 Qual è l'anno di nascita?",
+              "id": 610285,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "003 Qual è l'età?",
+              "id": 610288,
+              "answers": [
+                {
+                  "answer_id": 655755,
+                  "document_id": 1275474,
+                  "question_id": 610288,
+                  "text": "65",
+                  "answer_start": 313,
+                  "answer_end": 315,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "005 Quanto è alto?",
+              "id": 610290,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "006 Quanto è alto il paziente?",
+              "id": 610291,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "007 Quato pesa?",
+              "id": 610292,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "008 Quanto pesa il paziente?",
+              "id": 610293,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "018 Il paziente è fumatore?",
+              "id": 610306,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "017 Fuma?",
+              "id": 610305,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "013 Quali patologie cardiache presenta?",
+              "id": 610300,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "014 Quali patologie cardiache presenta il paziente?",
+              "id": 610301,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "015 Quali interventi chirirgici ha subito?",
+              "id": 610302,
+              "answers": [
+                {
+                  "answer_id": 655769,
+                  "document_id": 1275474,
+                  "question_id": 610302,
+                  "text": "sostituzione valvolare aortica",
+                  "answer_start": 4511,
+                  "answer_end": 4541,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "016 Quali interventi chirirgici ha subito il paziente?",
+              "id": 610303,
+              "answers": [
+                {
+                  "answer_id": 655770,
+                  "document_id": 1275474,
+                  "question_id": 610303,
+                  "text": "sostituzione valvolare aortica",
+                  "answer_start": 4511,
+                  "answer_end": 4541,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "002 Qual è l'anno di nascita del paziente?",
+              "id": 610286,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "004 Qual è l'età del paziente?",
+              "id": 610289,
+              "answers": [
+                {
+                  "answer_id": 655756,
+                  "document_id": 1275474,
+                  "question_id": 610289,
+                  "text": "65",
+                  "answer_start": 313,
+                  "answer_end": 315,
+                  "answer_category": "SHORT"
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "009 Qual è la pressione sistolica?",
+              "id": 610295,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "010 Qual è la pressione sistolica del paziente?",
+              "id": 610296,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "011 Qual è la pressione diastolica?",
+              "id": 610297,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "012 Qual è la pressione diastolica del paziente?",
+              "id": 610298,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "LETTERA DI DIMISSIONE \n \nSig.   (nato il ) \nPSD002\n \nSan Donato Milanese, Milano,  01.02.21 \nAlla cortese attenzione \ndel Medico Curante \n \n \nAlla cortese attenzione  \nEtichetta paziente \nAi Colleghi della  \nDivisione di Cardiologia Riabilitativa \nCamogli \n \nViene dimesso in data odierna il Sig. PSD002, di anni 65, ricoverato presso la nostra Unità Operativa \nin data 21.01.21. \n  \nDIAGNOSI DI DIMISSIONE \nDISFUZIONE DI BIOPROTESI IN ESITI DI SVAO CON INSUFFICIENZA SEVERA SOTTOPOSTO AD \nINTERVENTO  DI SOSTITUZIONE VALVOLARE AORTICA CON PROTESI MECCANICA TIPO \nSORIN N° 25 S REDO \n \nANAMNESI CARDIOLOGICA \nFDR CV: ipertensione arteriosa. \n \nMDR: insufficienza valvolare aortica severa da disfuzione di bioprotesi in esiti di SVAo  \n \nStoria cardiologica: Pregressa SVA con bioprotesi Mitroflow n.23, in minitoratomia anteriore sinistra,  \nnel 2012 presso ICLAS Rapallo (GVM). \nNegli ultimi 6 mesi insorgenza di dispnea, progressivamente ingravescente. All'ecocardiogramma di \nnovembre us riscontro di disfunzione di protesi valvolare aortica con stenosi severa e insufficienza \nsevera; ventricolo sinistro lievemente dilatato, ipertrofico, con FE 60%. Nell'ultimo mese dispnea da \nsforzi lievi, nonostante terapia con Lasix 25 mg 2cpx2/die. Si sottopone a visita CCH dal Dr. L. Menicanti, \nche pone indicazione a reintervento per SVA. \n \nANAMNESI GENERALE \nPaziente monorene, riscontrato all'età di 40 anni, con riferita buona funzione renale \nPregressa emorroidectemia nel 1990 \nRialzo PSA all'ultimo controllo ematico -> visita urologica -> iniziata terapia con Saba e Prostaplant, e \nZyloric. \nIperuricemia. \nEseguita Visita Odontoiatrica e Ortopanoramica il 07.01.21: eseguita cura canalare su lesione focale \nelemento 46. Non flogosi dei seni mascellari. Non segni di perimplantite. \n \n \nACCERTAMENTI PRE OPERATORI \nTampone per Sars-Cov2 (20.0121 pre-ricovero): negativo.  \n \nSierologia per Sars-Cov2 (20.01.21 pre-ricovero): negativo.  \n \nTampone nasale screening MRSA/MSSA (20.01.20 prericovero): negativo. \n \n \nEcocardiogramma TT (21.01.21): Esiti di sostituzione valvolare aortica con bioprotesi Mitroflow n. 23, \nche si presenta attualmente, con cuspidi lievemente ispessite, relativamente mobili dotate di buona \napertura, provviste di alcune piccole formazioni iper/ecogene sulle estremità di non unica interpretazione \n(esiti di endocardite?; tessuto infiammatorio/trombotico) in probabile rottura/perforazione cuspidale \ndeterminante severo aumento della velocità di flusso transvalvolare protesi (Vmax 4.10 m/sec; PG medio \n44 mmHg) dovuta a severo jet di rigurgito valvolare. PHT AI 235 msec. Normali le dimensioni della radice \naortica e aorta ascendente. Ventricolo sinistro di volume cavitario dilatato (EDVi 107 ml/m2; ESVi 57 \nml/m2), con funzione sistolica globale lievemente ridotta (FE 50%). Pattern di funzione diastolica del \nventricolo sinistro di grado III. Discinesia del SIV. Dilatazione dell'atrio sinistro (LAVi 46 ml/m2). Atrio \ndestro di normali dimensioni. SIA apparentemente integro nei limiti della metodica in uso. Valvola mitrale \ncon lembi ispessiti, con dinamica buona, con tracce di insufficienza. Ventricolo destro di normali \ndimensioni, con normale funzione sistolica (FAC 41%; onda S'13 cm/sec; TAPSE 18 mm). Insufficienza \ntricuspidalica in tracce. Pressione nell'arteria polmonare stimata di 30 mmHg. Vena cava inferiore di \nnormali dimensioni, collassante. Non versamento pericardico significativo. Conclusioni: Evidenza di \nsevera insufficienza aortica da disfunzione di bioprotesi aortica Mitroflow n. 23 degenerata (vedi \nallegato). \n \nDoppler TSA (20.01.21 pre-ricovero): DESTRA pervietà delle carotidi comune ed esterna, con diffusa \nateromasia; placca fibrolipidica regolare alla biforcazione, estesa all’origine della carotide interna, ove \ndetermina stenosi del 25% circa, emodinamicamente non significativa. Si segnala coiling distale della \ncarotide interna in assenza di accelerazioni (PSV 106.5 cm/sec). SINISTRA pervietà delle carotidi \ncomune ed esterna, con diffusa ateromasia; placca fibrolipidica regolare alla biforcazione, estesa \nall’origine della carotide interna, ove determina stenosi del 30-35% circa, emodinamicamente non \nsignificativa. Vertebrali bilateralmente pervie ed ortograde in V2. Succlavie bilateralmente pervie con \nsegnale trifasico (vedi allegato). \n \nCoronarografia 21.01.21): indenne da stenosi significative (vedi allegato). \n \nINTERVENTO CARDIOCHIRURGICO \nIn data 22.01.21, il pz è stato sottoposto ad intervento di sostituzione valvolare aortica con protesi \nmeccanica tipo Sorin n° 25 S redo, Dr. Menicanti (Vedi verbale Operatorio allegato). \n \nDECORSO CLINICO POST-OPERATORIO \n \nTERAPIA INTENSIVA  \n-  Emotrasfuso con n° 2 unità di EC \n-  Restante decorso regolare \n \nREPARTO (rientra il  26.01.21) \n-  Episodi di FAP trattati con amiodarone ev, titolazione del betabloccante ed adeguamento \nvolemico con beneficio \n-  Episodi di agitazione psicomotoria e disorientamento temporospaziale con fasi allucinatorie, \ntrattate con aloperidolo im in acuto e quetiapina per os la sera, con beneficio \n-  Flebite braccio dx con lieve leucocitosi correlata con PCR in riduzione spontanea \n \nECG alla dimissione: ritmo sinusale regolare a 85 bpm, alterazioni della fase di ripolarizzazione. \n \nRx torace 31.01.21: in corso di refertazione. \n \nEcocardiogramma TT 01.02.21: Esiti di sostituzione bioprotesi disfunzionante con protesi meccanica \nsorin 25s, normoposta, con gradiente medio del flusso anterogrado di 9 mmHg. Non evidenza di flussi \npatologici. Normali le dimensioni della radice aortica e aorta ascendente. Ventricolo sinistro di volume \n \ncavitario dilatato (EDVi 74 ml/m2; ESVi 45 ml/m2), con funzione sistolica globale lievemente ridotta (FE \n50%). Pattern di funzione diastolica del ventricolo sinistro di grado I. Discinesia del SIV. Dilatazione \ndell'atrio sinistro (LAVi 36 ml/m2). Atrio destro di normali dimensioni. SIA apparentemente integro nei \nlimiti della metodica in uso. Valvola mitrale con lembi ispessiti, con dinamica buona, con tracce di \ninsufficienza. Ventricolo destro di normali dimensioni, con ridotta escursione longitudinale sistolica \n(TAPSE 12 mm). Insufficienza tricuspidalica in tracce. Pressione nell'arteria polmonare stimata di 22 \nmmHg. Vena cava inferiore di normali dimensioni, collassante. Minime tracce di versamento pericardico \nin sede retroatriale destra non significativo (vedi allegato). \n \nTampone per Sars-Cov2 (29.01.21 – 31.01.21): negativo.  \n \nAl momento della dimissione, paziente in discrete condizioni generali, sterno saldo (si consiglia tuttavia \ndi  mantenere  corsetto  sternale),  ferita  in  ordine,  attività  cardiaca  ritmica,  normofrequente;  MV \nnormotramesso, no stasi polmonare né periferica. \n \nTERAPIA FARMACOLOGICA ALLA DIMISSIONE \n-  PANTOPRAZOLO 20 mg 1 cp alle ore 8 \n-  ACENOCUMAROLO 4 mg sec INR alle ore 18 (INR del 31.01.21 = 2.21 dose ¼ cp, INR odierno \n=  3.31, dose 0 cp) \n-  METOPROLOLO 100 mg ½ cp alle ore 8, ½ cp alle ore 14 e ½ cp alle ore 20 \n-  RAMIPRIL 5 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  CLORURO DI POTASSIO 600 mg 1 cp alle ore 12 e 1 cp alle ore 20, da sospendere secondo \nkaliemia \n-  FUROSEMIDE 25 mg 2 cp alle ore 8 e 2 cp alle ore 20 \n-  CANREONATO DI POTASSIO 100 mg ½ cp alle ore 16 \n-  LORAZEPAM 1 mg 1 cp alle ore 8 \n-  QUETIAPINA 25 mg 1 cp alle ore 22 (da sospendere eventualmente prima del rientro a domicilio) \n \nPROFILASSI DELL’ENDOCARDITE BATTERICA \nIn caso di procedure mediche e odontoiatriche invasive o semi-invasive si raccomanda esecuzione di \nprofilassi antibiotica della endocardite batterica secondo lo schema (tipo di Antibiotico, dosi e modalità \ndi assunzione) riportato nel modulo allegato. Nel modulo sono riportate in dettaglio tutte le procedure \nper le quali è indicata l’esecuzione della profilassi antibiotica.  \n \nÈ possibile che alcune delle prescrizioni consigliate non siano a carico del SSN a causa di vincoli di prescrivibilità posti \ndall’Agenzia Italiana del Farmaco (AIFA) e pertanto siano a carico dell’assistito (Art. 3 Legge 08.04.1988 n. 94, \ndeterminazione 29.10.94 suppl. 162 GU 259).  \n \nPROGRAMMA DI CONTINUITÀ DELLE CURE \nSuccessivamente al completamento del programma di riabilitazione, a distanza di circa 2 mesi dalla data \ndell’intervento, il Paziente è atteso per un controllo cardiochirurgico portando in visione Radiografia del \ntorace, Ecocardiogramma color-Doppler, ECG di controllo: la preghiamo di contattare direttamente la \nnostra Segreteria per fissare la data dell’appuntamento.  \n \n \nRimaniamo a disposizione per ogni eventuale ulteriore informazione o chiarimento.  \n \nCordiali Saluti \n \n   \n \n \nLe Regole di Sistema della Regione Lombardia prevedono che gli utenti siano informati sui costi che il Servizio \nSanitario Regionale sostiene per le attività di ricovero di cui hanno usufruito.  \n \nIl valore di € 23867 rappresenta il rimborso corrisposto mediamente agli ospedali della Lombardia per il costo \nsostenuto per il presente ricovero.   \n \n \nNEL CASO DI ULTERIORI ACCESSI AL NOSTRO ISTITUTO PER VISITE DI CONTROLLO O PER PRESTAZIONI \nAMBULATORIALI LE RICORDIAMO DI PORTARE CON SE QUESTA RELAZIONE DI DIMISSIONE, UNITAMENTE A TUTTA \nLA DOCUMENTAZIONE DI ORDINE CLINICO CHE LE È STATA RILASCIATA AL MOMENTO DELLA DIMISSIONE ",
+          "document_id": 1275474
+        }
+      ]
+    }
+  ]
+}
