@@ -3,37 +3,37 @@
         [
             0,
             {
-                "score": 0.5826421976089478,
-                "start": 417,
-                "end": 450,
-                "answer": "STENOSI VALVOLARE AORTICA SEVERA"
+                "score": 0.7811917662620544,
+                "start": 1351,
+                "end": 1359,
+                "answer": "tiroideo"
             }
         ],
         [
             1,
             {
-                "score": 0.4160597026348114,
-                "start": 319,
-                "end": 323,
-                "answer": " 74"
+                "score": 0.7640986442565918,
+                "start": 2964,
+                "end": 2980,
+                "answer": "carotide interna"
             }
         ],
         [
             3,
             {
-                "score": 0.37062063813209534,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.8321347832679749,
+                "start": 1322,
+                "end": 1335,
+                "answer": "ipotiroidismo"
             }
         ],
         [
             4,
             {
-                "score": 0.16455362737178802,
-                "start": 2203,
-                "end": 2219,
-                "answer": " quadrantectomia"
+                "score": 0.7684236764907837,
+                "start": 1351,
+                "end": 1359,
+                "answer": "tiroideo"
             }
         ]
     ],
@@ -41,37 +41,37 @@
         [
             0,
             {
-                "score": 0.14547289907932281,
-                "start": 616,
-                "end": 640,
-                "answer": " ipertensione arteriosa"
+                "score": 0.6694861650466919,
+                "start": 6806,
+                "end": 6818,
+                "answer": "PANTOPRAZOLO"
             }
         ],
         [
             1,
             {
-                "score": 0.6254143118858337,
-                "start": 312,
-                "end": 316,
-                "answer": " 65"
+                "score": 0.6846810579299927,
+                "start": 6806,
+                "end": 6818,
+                "answer": "PANTOPRAZOLO"
             }
         ],
         [
             3,
             {
-                "score": 0.3912293016910553,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.4939143657684326,
+                "start": 7186,
+                "end": 7196,
+                "answer": "FUROSEMIDE"
             }
         ],
         [
             4,
             {
-                "score": 0.34958788752555847,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.4443511366844177,
+                "start": 4830,
+                "end": 4840,
+                "answer": "amiodarone"
             }
         ]
     ],
@@ -79,37 +79,37 @@
         [
             0,
             {
-                "score": 0.8305100798606873,
-                "start": 1485,
-                "end": 1531,
-                "answer": " severa \ncoronaropatia critica aterosclerotica"
+                "score": 0.9146991968154907,
+                "start": 4729,
+                "end": 4742,
+                "answer": "noradrenalina"
             }
         ],
         [
             1,
             {
-                "score": 0.8747233152389526,
-                "start": 313,
-                "end": 317,
-                "answer": " 52"
+                "score": 0.8340692520141602,
+                "start": 4729,
+                "end": 4742,
+                "answer": "noradrenalina"
             }
         ],
         [
             3,
             {
-                "score": 0.06415757536888123,
-                "start": 6424,
+                "score": 0.8885045051574707,
+                "start": 4729,
+                "end": 4742,
+                "answer": "noradrenalina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8160284161567688,
+                "start": 6425,
                 "end": 6437,
-                "answer": " PANTOPRAZOLO"
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.6529240012168884,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "answer": "PANTOPRAZOLO"
             }
         ]
     ],
@@ -117,37 +117,37 @@
         [
             0,
             {
-                "score": 0.5851714015007019,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.41666179895401,
+                "start": 1375,
+                "end": 1384,
+                "answer": "sars-cov2"
             }
         ],
         [
             1,
             {
-                "score": 0.5475125312805176,
-                "start": 239,
-                "end": 243,
-                "answer": " 87"
+                "score": 0.6170784831047058,
+                "start": 2284,
+                "end": 2294,
+                "answer": "tricuspide"
             }
         ],
         [
             3,
             {
-                "score": 0.0921718180179596,
-                "start": 5202,
-                "end": 5251,
-                "answer": " PANTOPRAZOLO 20 mg 1 cp alle ore 8 \n-  VALSARTAN"
+                "score": 0.3563210964202881,
+                "start": 1375,
+                "end": 1384,
+                "answer": "sars-cov2"
             }
         ],
         [
             4,
             {
-                "score": 0.8530920743942261,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.3516364097595215,
+                "start": 2284,
+                "end": 2294,
+                "answer": "tricuspide"
             }
         ]
     ],
@@ -155,37 +155,37 @@
         [
             0,
             {
-                "score": 0.3492289185523987,
-                "start": 431,
-                "end": 485,
-                "answer": "STENOSI VALVOLARE AORTICA SEVERA IN VALVOLA BICUSPIDE"
+                "score": 0.9181327223777771,
+                "start": 1099,
+                "end": 1109,
+                "answer": "tricuspide"
             }
         ],
         [
             1,
             {
-                "score": 0.8792001008987427,
-                "start": 332,
-                "end": 335,
-                "answer": " 66"
+                "score": 0.9007446765899658,
+                "start": 1099,
+                "end": 1109,
+                "answer": "tricuspide"
             }
         ],
         [
             3,
             {
-                "score": 0.28701332211494446,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.9964067935943604,
+                "start": 6134,
+                "end": 6144,
+                "answer": "amiodarone"
             }
         ],
         [
             4,
             {
-                "score": 0.37007325887680054,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.7890263199806213,
+                "start": 1099,
+                "end": 1109,
+                "answer": "tricuspide"
             }
         ]
     ],
@@ -193,37 +193,37 @@
         [
             0,
             {
-                "score": 0.6635295748710632,
-                "start": 898,
-                "end": 929,
-                "answer": " malattia coronarica \ntrivasale"
+                "score": 0.9721537828445435,
+                "start": 7272,
+                "end": 7285,
+                "answer": "noradrenalina"
             }
         ],
         [
             1,
             {
-                "score": 0.5908203125,
-                "start": 321,
-                "end": 325,
-                "answer": " 77"
+                "score": 0.9513590335845947,
+                "start": 8461,
+                "end": 8477,
+                "answer": "Valvola \nmitrale"
             }
         ],
         [
             3,
             {
-                "score": 0.147563636302948,
-                "start": 9223,
-                "end": 9284,
-                "answer": " PANTOPRAZOLO 20 mg 1 cp/die ore 8 \n-  ACIDO ACETILSALICILICO"
+                "score": 0.8234667778015137,
+                "start": 7272,
+                "end": 7285,
+                "answer": "noradrenalina"
             }
         ],
         [
             4,
             {
-                "score": 0.44266968965530396,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.9296824336051941,
+                "start": 8461,
+                "end": 8477,
+                "answer": "Valvola \nmitrale"
             }
         ]
     ],
@@ -231,37 +231,37 @@
         [
             0,
             {
-                "score": 0.6410874724388123,
-                "start": 887,
-                "end": 921,
-                "answer": " bicuspidia della valvola aortica"
+                "score": 0.5583473443984985,
+                "start": 2753,
+                "end": 2768,
+                "answer": "Valvola mitrale"
             }
         ],
         [
             1,
             {
-                "score": 0.6882526278495789,
-                "start": 332,
-                "end": 336,
-                "answer": " 55"
+                "score": 0.8360483646392822,
+                "start": 6836,
+                "end": 6848,
+                "answer": "PANTOPRAZOLO"
             }
         ],
         [
             3,
             {
-                "score": 0.5397518873214722,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.5078924298286438,
+                "start": 4110,
+                "end": 4119,
+                "answer": "milrinone"
             }
         ],
         [
             4,
             {
-                "score": 0.13084840774536133,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.6121451258659363,
+                "start": 2753,
+                "end": 2768,
+                "answer": "Valvola mitrale"
             }
         ]
     ],
@@ -269,37 +269,37 @@
         [
             0,
             {
-                "score": 0.528666615486145,
-                "start": 441,
-                "end": 485,
-                "answer": "INSUFFICIENZA  VALVOLARE  MITRALICA  SEVERA"
+                "score": 0.865394115447998,
+                "start": 7020,
+                "end": 7032,
+                "answer": "PANTOPRAZOLO"
             }
         ],
         [
             1,
             {
-                "score": 0.6385505199432373,
-                "start": 343,
-                "end": 347,
-                "answer": " 69"
+                "score": 0.8513008952140808,
+                "start": 1717,
+                "end": 1738,
+                "answer": "Mycoplasma pneumoniae"
             }
         ],
         [
             3,
             {
-                "score": 0.37509334087371826,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.8175876140594482,
+                "start": 7020,
+                "end": 7032,
+                "answer": "PANTOPRAZOLO"
             }
         ],
         [
             4,
             {
-                "score": 0.18446651101112366,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.8009757995605469,
+                "start": 7020,
+                "end": 7032,
+                "answer": "PANTOPRAZOLO"
             }
         ]
     ],
@@ -307,37 +307,37 @@
         [
             0,
             {
-                "score": 0.7471069097518921,
-                "start": 437,
-                "end": 482,
-                "answer": "INSUFFCIENZA VALVOLARE AORTICA POSTREUMATICA"
+                "score": 0.9739803075790405,
+                "start": 4605,
+                "end": 4617,
+                "answer": "tricuspidale"
             }
         ],
         [
             1,
             {
-                "score": 0.7108123302459717,
-                "start": 338,
-                "end": 341,
-                "answer": " 31"
+                "score": 0.9033189415931702,
+                "start": 5311,
+                "end": 5324,
+                "answer": "CARBAMAZEPINA"
             }
         ],
         [
             3,
             {
-                "score": 0.24833515286445618,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.9494293928146362,
+                "start": 5311,
+                "end": 5324,
+                "answer": "CARBAMAZEPINA"
             }
         ],
         [
             4,
             {
-                "score": 0.7806786298751831,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.9726434946060181,
+                "start": 4605,
+                "end": 4617,
+                "answer": "tricuspidale"
             }
         ]
     ],
@@ -345,37 +345,37 @@
         [
             0,
             {
-                "score": 0.7003758549690247,
-                "start": 415,
-                "end": 489,
-                "answer": "INSUFFICIENZA VALVOLARE MITRALICA SEVERA DA PROLASSO DEL LEMBO POSTERIORE"
+                "score": 0.9419553875923157,
+                "start": 7175,
+                "end": 7196,
+                "answer": "endocardite batterica"
             }
         ],
         [
             1,
             {
-                "score": 0.7178627848625183,
-                "start": 320,
-                "end": 324,
-                "answer": " 48"
+                "score": 0.9461529850959778,
+                "start": 4715,
+                "end": 4725,
+                "answer": "ibuprofene"
             }
         ],
         [
             3,
             {
-                "score": 0.146728515625,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.954308807849884,
+                "start": 6440,
+                "end": 6451,
+                "answer": "bisoprololo"
             }
         ],
         [
             4,
             {
-                "score": 0.20780697464942932,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.9051023721694946,
+                "start": 7175,
+                "end": 7196,
+                "answer": "endocardite batterica"
             }
         ]
     ],
@@ -383,37 +383,37 @@
         [
             0,
             {
-                "score": 0.7035704851150513,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.2429039627313614,
+                "start": 1923,
+                "end": 1933,
+                "answer": "emicostato"
             }
         ],
         [
             1,
             {
-                "score": 0.8663268685340881,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.19445642828941345,
+                "start": 1923,
+                "end": 1933,
+                "answer": "emicostato"
             }
         ],
         [
             3,
             {
-                "score": 0.9542554616928101,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.1362861692905426,
+                "start": 1882,
+                "end": 1888,
+                "answer": "cranio"
             }
         ],
         [
             4,
             {
-                "score": 0.9359893202781677,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.11605295538902283,
+                "start": 1882,
+                "end": 1888,
+                "answer": "cranio"
             }
         ]
     ],
@@ -421,607 +421,37 @@
         [
             0,
             {
-                "score": 0.8101294636726379,
-                "start": 28,
-                "end": 62,
-                "answer": " recidiva di poliposi rinosinusale"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9133118391036987,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8830239772796631,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.2551003098487854,
-                "start": 144,
-                "end": 225,
-                "answer": " antrostomia bilaterale e toilette dei seni mascellari + etmoidectomia anteriore"
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.1674530804157257,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9893695712089539,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9875043034553528,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8999199867248535,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.7814943194389343,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.8875072598457336,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8759427070617676,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.25101250410079956,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.7908132672309875,
-                "start": 279,
-                "end": 333,
-                "answer": " VALVULOPATIA AORTICA, ANEURISMA DELL\u2019AORTA ASCENDENTE"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.5478737354278564,
-                "start": 204,
-                "end": 208,
-                "answer": " 32"
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.06931832432746887,
-                "start": 4626,
-                "end": 4640,
-                "answer": "Cardioaspirin"
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.3360108733177185,
-                "start": 399,
-                "end": 452,
-                "answer": " SOSTITUZIONE VALVOLARE AORTICA CON PROTESI BIOLOGICA"
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.5640203356742859,
-                "start": 12,
-                "end": 33,
-                "answer": " cicatrici deturpanti"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9544187188148499,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9951081871986389,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.6600469350814819,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.7387670278549194,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9412335157394409,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9439545273780823,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.9013423919677734,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.8142479658126831,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.8419444561004639,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9351909756660461,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8945834636688232,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.11168594658374786,
-                "start": 95,
-                "end": 124,
-                "answer": " INSUFFICIENZA RENALE CRONICA"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.7690309882164001,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8956902027130127,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.7786291241645813,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.06597336381673813,
-                "start": 105,
-                "end": 183,
-                "answer": "FEBBRE, EPATO-SPLENOMEGALIA, PIASTRINOPENIA, TRANSITORIA IPERTRANSAMINASEMIA"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.879401445388794,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8659090995788574,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.9003563523292542,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.3715861141681671,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.785716712474823,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8840638399124146,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.9006619453430176,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.412664532661438,
-                "start": 94,
-                "end": 128,
-                "answer": "INSUFFICIENZA CARDIACA DIASTOLICA"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.7051913738250732,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.3644660413265228,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.7437220811843872,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.4467528760433197,
-                "start": 93,
-                "end": 117,
-                "answer": " Malattia renale cronica"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.8289726972579956,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8653423190116882,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.6834775805473328,
-                "start": 144,
-                "end": 236,
-                "answer": " quadrantectomia mammella sinistra + linfadenectomia omolaterale per ca. duttale infiltrante"
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.33109068870544434,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.892962634563446,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.11344390362501144,
-                "start": 4842,
-                "end": 4889,
-                "answer": " Keppra 500 1 cpr per 2 volte al d\u00ec;\n- Soldesam"
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8624922633171082,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.710656464099884,
-                "start": 164,
-                "end": 192,
-                "answer": " Cirrosi Epatica Esotossica"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.7879332900047302,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.7866828441619873,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.9023696184158325,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.354182630777359,
-                "start": 116,
-                "end": 158,
-                "answer": " malattia renale cronica III stadio K/DOQI"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.8194357752799988,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.8001641631126404,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8815038204193115,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.7230924963951111,
+                "score": 0.6977541446685791,
                 "start": 201,
-                "end": 243,
-                "answer": " Ipertensione arteriosa. Sindrome ansiosa"
+                "end": 224,
+                "answer": "etmoidectomia anteriore"
             }
         ],
         [
             1,
             {
-                "score": 0.8310718536376953,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.8537559509277344,
+                "start": 201,
+                "end": 224,
+                "answer": "etmoidectomia anteriore"
             }
         ],
         [
             3,
             {
-                "score": 0.32713907957077026,
-                "start": 12660,
-                "end": 12672,
-                "answer": "Ganciclovir"
+                "score": 0.7753990888595581,
+                "start": 201,
+                "end": 224,
+                "answer": "etmoidectomia anteriore"
             }
         ],
         [
             4,
             {
-                "score": 0.8771927952766418,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.8747631311416626,
+                "start": 201,
+                "end": 224,
+                "answer": "etmoidectomia anteriore"
             }
         ]
     ],
@@ -1029,37 +459,37 @@
         [
             0,
             {
-                "score": 0.754670262336731,
-                "start": 269,
-                "end": 322,
-                "answer": " VALVULOPATIA MITRALICA,E VALVULOPATIA TRICUSPIDALICA"
+                "score": 0.41367992758750916,
+                "start": 31,
+                "end": 57,
+                "answer": "Piccolo aneurisma splenico"
             }
         ],
         [
             1,
             {
-                "score": 0.611064612865448,
-                "start": 194,
-                "end": 198,
-                "answer": " 79"
+                "score": 0.29867732524871826,
+                "start": 31,
+                "end": 57,
+                "answer": "Piccolo aneurisma splenico"
             }
         ],
         [
             3,
             {
-                "score": 0.17488880455493927,
-                "start": 4069,
-                "end": 4256,
-                "answer": "Pantorc 20 mg cp                                                              1cp/die ( ore 8)\nCardioASA 100 mg cp                                                       1cp/die ( ore 13"
+                "score": 0.21380503475666046,
+                "start": 31,
+                "end": 57,
+                "answer": "Piccolo aneurisma splenico"
             }
         ],
         [
             4,
             {
-                "score": 0.4286775290966034,
-                "start": 385,
-                "end": 440,
-                "answer": " SOSTITUZIONE VALVOLARE MITRALICA CON PROTESI BIOLOGICA"
+                "score": 0.4521019160747528,
+                "start": 39,
+                "end": 57,
+                "answer": "aneurisma splenico"
             }
         ]
     ],
@@ -1067,37 +497,835 @@
         [
             0,
             {
-                "score": 0.8024600148200989,
+                "score": 0.8454408049583435,
+                "start": 3751,
+                "end": 3762,
+                "answer": "Tachipirina"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9708996415138245,
+                "start": 3751,
+                "end": 3762,
+                "answer": "Tachipirina"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.976561963558197,
+                "start": 3751,
+                "end": 3762,
+                "answer": "Tachipirina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9693191051483154,
+                "start": 3751,
+                "end": 3762,
+                "answer": "Tachipirina"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9381253719329834,
+                "start": 8269,
+                "end": 8280,
+                "answer": "clorexidina"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9770241379737854,
+                "start": 8269,
+                "end": 8280,
+                "answer": "clorexidina"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9770238995552063,
+                "start": 10034,
+                "end": 10046,
+                "answer": "Amoxicillina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9238255023956299,
+                "start": 8269,
+                "end": 8280,
+                "answer": "clorexidina"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.09828311949968338,
+                "start": 46,
+                "end": 81,
+                "answer": "dermolipectomia post calo ponderale"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.06648554652929306,
+                "start": 46,
+                "end": 81,
+                "answer": "dermolipectomia post calo ponderale"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.05026943236589432,
+                "start": 46,
+                "end": 81,
+                "answer": "dermolipectomia post calo ponderale"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.16787748038768768,
+                "start": 46,
+                "end": 81,
+                "answer": "dermolipectomia post calo ponderale"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3151770234107971,
+                "start": 1801,
+                "end": 1824,
+                "answer": "sottocorticale frontale"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.2100776880979538,
+                "start": 1801,
+                "end": 1824,
+                "answer": "sottocorticale frontale"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.20694796741008759,
+                "start": 1801,
+                "end": 1824,
+                "answer": "sottocorticale frontale"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.2820431590080261,
+                "start": 1801,
+                "end": 1824,
+                "answer": "sottocorticale frontale"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9276747107505798,
+                "start": 1055,
+                "end": 1058,
+                "answer": "p53"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9116299152374268,
+                "start": 1055,
+                "end": 1058,
+                "answer": "p53"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.8707706332206726,
+                "start": 1055,
+                "end": 1058,
+                "answer": "p53"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.982737123966217,
+                "start": 1055,
+                "end": 1058,
+                "answer": "p53"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9437424540519714,
+                "start": 727,
+                "end": 738,
+                "answer": "ceftriaxone"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.950968861579895,
+                "start": 727,
+                "end": 738,
+                "answer": "ceftriaxone"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9553782939910889,
+                "start": 727,
+                "end": 738,
+                "answer": "ceftriaxone"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9706746935844421,
+                "start": 727,
+                "end": 738,
+                "answer": "ceftriaxone"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.2732186019420624,
+                "start": 1923,
+                "end": 1947,
+                "answer": "Retroperitoneo inferiore"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.17366276681423187,
+                "start": 1923,
+                "end": 1947,
+                "answer": "Retroperitoneo inferiore"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.23715326189994812,
+                "start": 1923,
+                "end": 1947,
+                "answer": "Retroperitoneo inferiore"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.3314875662326813,
+                "start": 1923,
+                "end": 1947,
+                "answer": "Retroperitoneo inferiore"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6312530040740967,
+                "start": 835,
+                "end": 842,
+                "answer": "pradaxa"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.47743740677833557,
+                "start": 835,
+                "end": 842,
+                "answer": "pradaxa"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.5700275301933289,
+                "start": 835,
+                "end": 842,
+                "answer": "pradaxa"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.47803521156311035,
+                "start": 835,
+                "end": 842,
+                "answer": "pradaxa"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9837417602539062,
+                "start": 4272,
+                "end": 4283,
+                "answer": "Carvedilolo"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9430770874023438,
+                "start": 4272,
+                "end": 4283,
+                "answer": "Carvedilolo"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9843566417694092,
+                "start": 4272,
+                "end": 4283,
+                "answer": "Carvedilolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9832141995429993,
+                "start": 4272,
+                "end": 4283,
+                "answer": "Carvedilolo"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5459702014923096,
+                "start": 3900,
+                "end": 3911,
+                "answer": "ZYLORIC 300"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.6370675563812256,
+                "start": 3222,
+                "end": 3233,
+                "answer": "Paratiroide"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.6645973324775696,
+                "start": 3900,
+                "end": 3911,
+                "answer": "ZYLORIC 300"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6379618048667908,
+                "start": 3900,
+                "end": 3911,
+                "answer": "ZYLORIC 300"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.21287095546722412,
+                "start": 4944,
+                "end": 4956,
+                "answer": "deltacortene"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.28964942693710327,
+                "start": 4944,
+                "end": 4956,
+                "answer": "deltacortene"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.18173174560070038,
+                "start": 1142,
+                "end": 1158,
+                "answer": "fronto-parietale"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.09344249218702316,
+                "start": 1142,
+                "end": 1158,
+                "answer": "fronto-parietale"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8703376650810242,
+                "start": 3828,
+                "end": 3841,
+                "answer": "Xeratop crema"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.8903624415397644,
+                "start": 3828,
+                "end": 3841,
+                "answer": "Xeratop crema"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.6351694464683533,
+                "start": 1145,
+                "end": 1161,
+                "answer": "Alfa-1-Globuline"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6816837787628174,
+                "start": 3828,
+                "end": 3841,
+                "answer": "Xeratop crema"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.652898371219635,
+                "start": 1521,
+                "end": 1532,
+                "answer": "acido urico"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.693513035774231,
+                "start": 1521,
+                "end": 1532,
+                "answer": "acido urico"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.8241430521011353,
+                "start": 1521,
+                "end": 1532,
+                "answer": "acido urico"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.7340870499610901,
+                "start": 1521,
+                "end": 1532,
+                "answer": "acido urico"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6968333125114441,
+                "start": 12460,
+                "end": 12482,
+                "answer": "Fibromiomatosi uterina"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.5351479649543762,
+                "start": 991,
+                "end": 1034,
+                "answer": "Creatinina (0.5-1.3 mg/dL)\t\t0.5 \t\t0.3 \t\t\t\u03b11"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.4901873767375946,
+                "start": 991,
+                "end": 1034,
+                "answer": "Creatinina (0.5-1.3 mg/dL)\t\t0.5 \t\t0.3 \t\t\t\u03b11"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5446368455886841,
+                "start": 11050,
+                "end": 11064,
+                "answer": "antro gastrico"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9884480237960815,
+                "start": 9489,
+                "end": 9501,
+                "answer": "Amoxicillina"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.8275864720344543,
+                "start": 7754,
+                "end": 7765,
+                "answer": "clorexidina"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9787482619285583,
+                "start": 9489,
+                "end": 9501,
+                "answer": "Amoxicillina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9775699973106384,
+                "start": 9489,
+                "end": 9501,
+                "answer": "Amoxicillina"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.975246787071228,
+                "start": 1636,
+                "end": 1648,
+                "answer": "Paracetamolo"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9889612793922424,
+                "start": 1636,
+                "end": 1648,
+                "answer": "Paracetamolo"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9914568066596985,
+                "start": 1636,
+                "end": 1648,
+                "answer": "Paracetamolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9842102527618408,
+                "start": 1636,
+                "end": 1648,
+                "answer": "Paracetamolo"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9728780388832092,
+                "start": 1039,
+                "end": 1051,
+                "answer": "Pantoprazolo"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9797860980033875,
+                "start": 1039,
+                "end": 1051,
+                "answer": "Pantoprazolo"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9919350147247314,
+                "start": 1039,
+                "end": 1051,
+                "answer": "Pantoprazolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9808898568153381,
+                "start": 1039,
+                "end": 1051,
+                "answer": "Pantoprazolo"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.34818020462989807,
+                "start": 375,
+                "end": 384,
+                "answer": "Augmentin"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.3163398206233978,
+                "start": 375,
+                "end": 384,
+                "answer": "Augmentin"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9363581538200378,
+                "start": 375,
+                "end": 384,
+                "answer": "Augmentin"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5639262795448303,
+                "start": 375,
+                "end": 384,
+                "answer": "Augmentin"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5185650587081909,
+                "start": 909,
+                "end": 918,
+                "answer": "tramadolo"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.25555768609046936,
+                "start": 909,
+                "end": 918,
+                "answer": "tramadolo"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.5730381608009338,
+                "start": 909,
+                "end": 918,
+                "answer": "tramadolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.7215922474861145,
+                "start": 909,
+                "end": 918,
+                "answer": "tramadolo"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9876223206520081,
+                "start": 517,
+                "end": 527,
+                "answer": "25OH-Vit D"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9269083738327026,
+                "start": 517,
+                "end": 527,
+                "answer": "25OH-Vit D"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9911911487579346,
+                "start": 517,
+                "end": 527,
+                "answer": "25OH-Vit D"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9930406808853149,
+                "start": 517,
+                "end": 527,
+                "answer": "25OH-Vit D"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5349947214126587,
+                "start": 140,
+                "end": 164,
+                "answer": "ernioplastica ombelicale"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.4360608160495758,
+                "start": 140,
+                "end": 164,
+                "answer": "ernioplastica ombelicale"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.5237633585929871,
+                "start": 140,
+                "end": 164,
+                "answer": "ernioplastica ombelicale"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.654369592666626,
+                "start": 140,
+                "end": 164,
+                "answer": "ernioplastica ombelicale"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.049577806144952774,
                 "start": 12,
-                "end": 45,
-                "answer": " PERITONITE DA APPENDICITE ACUTA"
+                "end": 21,
+                "answer": "CAROTIDEA"
             }
         ],
         [
             1,
             {
-                "score": 0.8493885397911072,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.03379307687282562,
+                "start": 12,
+                "end": 21,
+                "answer": "CAROTIDEA"
             }
         ],
         [
             3,
             {
-                "score": 0.8189992308616638,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.11936727911233902,
+                "start": 12,
+                "end": 21,
+                "answer": "CAROTIDEA"
             }
         ],
         [
             4,
             {
-                "score": 0.425506591796875,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.08078575879335403,
+                "start": 12,
+                "end": 21,
+                "answer": "CAROTIDEA"
             }
         ]
     ],
@@ -1105,265 +1333,37 @@
         [
             0,
             {
-                "score": 0.455145925283432,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.13142423331737518,
+                "start": 23,
+                "end": 32,
+                "answer": "CEREBRALE"
             }
         ],
         [
             1,
             {
-                "score": 0.898379385471344,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.0540827214717865,
+                "start": 23,
+                "end": 32,
+                "answer": "CEREBRALE"
             }
         ],
         [
             3,
             {
-                "score": 0.9319723844528198,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.4033489227294922,
+                "start": 23,
+                "end": 32,
+                "answer": "CEREBRALE"
             }
         ],
         [
             4,
             {
-                "score": 0.737163782119751,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.80214524269104,
-                "start": 28,
-                "end": 42,
-                "answer": " lagoftalmo OD"
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.8965835571289062,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.12133079022169113,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.06559690833091736,
-                "start": 155,
-                "end": 207,
-                "answer": " intervento di sospensione palpebra inferiore destra"
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.5847902894020081,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9352347254753113,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.5419257879257202,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8915013670921326,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.7426250576972961,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9432471394538879,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9596392512321472,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.912117063999176,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.6817074418067932,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.9555810689926147,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9730985164642334,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.4903564155101776,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.9236639142036438,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.902448832988739,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.9203154444694519,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.8116084337234497,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ]
-    ],
-    [
-        [
-            0,
-            {
-                "score": 0.6816103458404541,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            1,
-            {
-                "score": 0.784103274345398,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            3,
-            {
-                "score": 0.45541784167289734,
-                "start": 0,
-                "end": 0,
-                "answer": ""
-            }
-        ],
-        [
-            4,
-            {
-                "score": 0.5707793831825256,
-                "start": 0,
-                "end": 0,
-                "answer": ""
+                "score": 0.08413372188806534,
+                "start": 23,
+                "end": 32,
+                "answer": "CEREBRALE"
             }
         ]
     ]
