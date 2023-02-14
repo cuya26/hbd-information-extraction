@@ -39,7 +39,11 @@ The outputs of Main will be:
 - QUESTIONS_heat.png: heatmap with results for single questions;
 - DOCUMENTS_heat.png: heatmap with results for single documents.
 
-### Additional scripts:
+### Custom libraries scripts:
 - my_utility.py: custom library, contains several functions used by Main;
 - my_utility.ipynb: custom library in jupyter notebook, used to edit in an easy way;
-- Convert_notebook_to_py.ipynb: script used to convert 'my_utility' from ntoebook to python file. Edit 'my_utility' as you like, then run this script.
+
+### Additional scripts (located in folder "Utility_notebooks"):
+- Convert_notebook_to_py.ipynb: script used to convert 'my_utility' from ntoebook to python file. Edit 'my_utility' as you like, then run this script;
+- Split_Annotations.ipynb: split a single file with all annotations (as it comes downloaded from Haystack) to several files;
+- SQuAD_to_BioASQ.ipynb: used to convert from SQuAD to BioASQ format;
