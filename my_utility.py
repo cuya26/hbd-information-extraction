@@ -96,11 +96,14 @@ def get_annotations_data(all_files):
         print('Error while loading data from file!')
 
 # Load annotation files
-def setup_pipeline(model_checkpoint, max_ans_len, handle_impossible_ans):
+def setup_pipeline(mode, model_checkpoint, max_ans_len, handle_impossible_ans):
     from transformers import pipeline, AutoTokenizer
     '''
     This function gets the model checkpoint and setup the pipeline
     INPUTS:
+    - mode: type of code usage:
+        - "PIPELINE": exploit HF pipeline
+        - "TOPIC_DETECTION": apply a topic detection approach
     - model_checkpoint: path to the model to use
     - max_ans_len: max length in token of the answer
     - handle_impossible_ans: True for SQuAD 2.0+ models
@@ -109,15 +112,51 @@ def setup_pipeline(model_checkpoint, max_ans_len, handle_impossible_ans):
     '''
     # Load Tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
-    # Setup QA pipeline
-    nlp_pipeline = pipeline(
-        'question-answering',
-        model=model_checkpoint,
-        tokenizer=model_checkpoint,
-        max_answer_len = max_ans_len,
-        handle_impossible_answer = handle_impossible_ans,
-    )
+    if mode=='PIPELINE':
+        # Setup pipeline
+        nlp_pipeline = pipeline(
+            'question-answering',
+            model=model_checkpoint,
+            tokenizer=model_checkpoint,
+            max_answer_len = max_ans_len,
+            handle_impossible_answer = handle_impossible_ans,
+        )
+    elif mode=='TOPIC_DETECTION':
+        nlp_pipeline = pipeline(
+            'zero-shot-classification',
+            model=model_checkpoint,
+        )
     return nlp_pipeline
+
+def split_in_sentences(text):
+    from spacy.lang.it import Italian 
+    '''
+    This function split a text in sentences
+    INPUTS:
+    - text: String, text to split
+    OUTPUTS:
+    - splits: list of sentences
+    '''
+    nlp = Italian()
+    nlp.add_pipe('sentencizer')
+    doc = nlp(text)
+    splits = [str(sent).strip() for sent in doc.sents]
+    return splits
+
+def get_top_topic(pipeline_result):
+    '''
+    This function elaborates to results from the HF zero-shot-classification pipeline
+    INPUTS:
+    - pipeline_results: results from the HF pipeline, which is a dict with following keys:
+        - sequence: text
+        - labels: list of candidates labels (every label is a topic)
+        - scores: list of scores, corresponding to labels
+    OUTPUTS:
+    - topic: topic with the highest score
+    '''
+    index = pipeline_result['scores'].index(max(pipeline_result['scores']))
+    topic = pipeline_result['labels'][index]
+    return topic
 
 def get_EM_score(ref_list, pred_list, debugmode=False):
     '''

@@ -1,0 +1,1370 @@
+[
+    [
+        [
+            0,
+            {
+                "score": 0.7398586273193359,
+                "start": 413,
+                "end": 446,
+                "answer": "STENOSI VALVOLARE AORTICA SEVERA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.991779088973999,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.3446059823036194,
+                "start": 556,
+                "end": 625,
+                "answer": " PANTOPRAZOLO 20 mg 1 cp ore 8 \n-  CLOPIDOGREL 75 mg 1 cp dopo pranzo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6645632386207581,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3081624507904053,
+                "start": 2450,
+                "end": 2479,
+                "answer": "severa insufficienza aortica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9866262674331665,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.2680782675743103,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6908127665519714,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8305100798606873,
+                "start": 1478,
+                "end": 1524,
+                "answer": " severa \ncoronaropatia critica aterosclerotica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9841221570968628,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.19407422840595245,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.786212146282196,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5827481746673584,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9757674932479858,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.051184508949518204,
+                "start": 176,
+                "end": 225,
+                "answer": " PANTOPRAZOLO 20 mg 1 cp alle ore 8 \n-  VALSARTAN"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.34118741750717163,
+                "start": 694,
+                "end": 722,
+                "answer": "INTERVENTO CARDIOCHIRURGICO"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.24572329223155975,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.973200261592865,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.32127514481544495,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.48243284225463867,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.1522548943758011,
+                "start": 328,
+                "end": 392,
+                "answer": "CORONAROPATIA CRITICA DI IVA E STENOSI VALVOLARE AORTICA SEVERA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9765067100524902,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.17053310573101044,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.32679930329322815,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6646335124969482,
+                "start": 320,
+                "end": 393,
+                "answer": " stenosi valvolare aortica in bicuspidia, aneurisma dell\u2019aorta ascendente"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9775926470756531,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.11089807003736496,
+                "start": 789,
+                "end": 803,
+                "answer": " ACENOCUMAROLO"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.19015799462795258,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.515492856502533,
+                "start": 437,
+                "end": 481,
+                "answer": "INSUFFICIENZA  VALVOLARE  MITRALICA  SEVERA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9725616574287415,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.18047305941581726,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.4183700382709503,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3679659962654114,
+                "start": 196,
+                "end": 244,
+                "answer": " insufficienza valvolare aortica di grado severo"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9863525032997131,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.16454514861106873,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6152819991111755,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5108199119567871,
+                "start": 327,
+                "end": 401,
+                "answer": "INSUFFICIENZA VALVOLARE MITRALICA SEVERA DA PROLASSO DEL LEMBO POSTERIORE"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9591350555419922,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.4039165675640106,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5076884627342224,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8130676746368408,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9938879609107971,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9881274700164795,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9239239692687988,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9889833927154541,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9859597086906433,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9686365723609924,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.1727094203233719,
+                "start": 93,
+                "end": 196,
+                "answer": " intervento in anestesia generale (07/11/2019) di antrostomia bilaterale e toilette dei seni mascellari"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9559272527694702,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.17221228778362274,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8241106867790222,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9790327548980713,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9702694416046143,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.18883490562438965,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9157199263572693,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9162124991416931,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9533799290657043,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.1064784899353981,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.762162983417511,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5479555726051331,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9965129494667053,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.935261070728302,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8239989280700684,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9824265837669373,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9835347533226013,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9822739958763123,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.2112811654806137,
+                "start": 92,
+                "end": 121,
+                "answer": " INSUFFICIENZA RENALE CRONICA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9960739016532898,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.8956688046455383,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.3084394037723541,
+                "start": 70,
+                "end": 110,
+                "answer": " nefrectomia bilaterale con nefrostomie"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.11520840227603912,
+                "start": 104,
+                "end": 182,
+                "answer": "FEBBRE, EPATO-SPLENOMEGALIA, PIASTRINOPENIA, TRANSITORIA IPERTRANSAMINASEMIA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9876506328582764,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9875240325927734,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8363165855407715,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8001009821891785,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9775493144989014,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9849100112915039,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6770737171173096,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.4161671996116638,
+                "start": 93,
+                "end": 127,
+                "answer": "INSUFFICIENZA CARDIACA DIASTOLICA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9950113892555237,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.8690853118896484,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9943075776100159,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5314233899116516,
+                "start": 92,
+                "end": 129,
+                "answer": " Malattia renale cronica al 4\u00b0 stadio"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9760842323303223,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.13818612694740295,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5924805402755737,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9778746366500854,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.03633946552872658,
+                "start": 458,
+                "end": 494,
+                "answer": " Keppra 500 1 cpr per 2 volte al d\u00ec"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9940066933631897,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6615639328956604,
+                "start": 161,
+                "end": 189,
+                "answer": " Cirrosi Epatica Esotossica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9913815855979919,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.10876892507076263,
+                "start": 196,
+                "end": 247,
+                "answer": " INDERAL 20 mg 1 cp\nOMEPRAZOLO 20 mg 1 cp\nGASTROGEL"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6984135508537292,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3790319561958313,
+                "start": 115,
+                "end": 157,
+                "answer": " malattia renale cronica III stadio K/DOQI"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9837698936462402,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9646656513214111,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9722925424575806,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5722606778144836,
+                "start": 199,
+                "end": 223,
+                "answer": " Ipertensione arteriosa"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9379820227622986,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.42857807874679565,
+                "start": 1327,
+                "end": 1382,
+                "answer": "Ganciclovir (Si allega piano terapeutico)\nDeltacortene"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9064084887504578,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.31266462802886963,
+                "start": 206,
+                "end": 296,
+                "answer": " Riscontro ecocardiografico occasionale di dilatazione aneurismatica dell\u2019aorta ascendente"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.992390513420105,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.23571208119392395,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5056473016738892,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.7084901928901672,
+                "start": 10,
+                "end": 43,
+                "answer": " PERITONITE DA APPENDICITE ACUTA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9819301962852478,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.7431236505508423,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.7681232690811157,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9752147793769836,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9184912443161011,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9859597086906433,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.1659814566373825,
+                "start": 372,
+                "end": 423,
+                "answer": " Augmentin 1 gr compresse, 1 cp x2/die per 7 giorni"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.4459124207496643,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9900118112564087,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5595501065254211,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6152669191360474,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.9965066909790039,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.96095210313797,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9898509979248047,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9940937161445618,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.474972665309906,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9188525676727295,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9929826259613037,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.6901469826698303,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8989148139953613,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ]
+]

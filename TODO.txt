@@ -1,22 +1,19 @@
-TODO list:
-- Write documentation [Claudio]
+TODO:
 - Add translation code to repo [Claudio]
+- Add requirements file [Claudio]
 - How to infere sex?
 - How to annotate text with more possible answers?
 - Retrieve MVD (minimum value dataset)
 - Integrate MVD with values from Andrea and basic WG1 questions
-
-DONE: 
-- Add BLEU score (check that code is correct) [Giuseppe]
-
-MILESTONES:
-- Implement pipeline script [DONE]
-- Implement topic detection script
-- Implement manual feeding script
-- Define which generative models use? GPT-2, T5, BLOOM, GPT-3... ?
-- Replicate pipeline - topic detection - manual feeding scripts with generative models
+- Systematic test with multiple models (extractive and generative)
 - Fine tune both extractive and generative models and replicate all tests
 - Search for other QABot datasets and translate them
+
+DONE: 
+- Add BLEU score (check that code is correct)
+- Write documentation
+- Implement pipeline script
+- Implement topic detection script
 
 Fine-tuning datasets:
 - Automatically translated BioASQ
