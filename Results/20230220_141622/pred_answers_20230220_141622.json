@@ -1,0 +1,1370 @@
+[
+    [
+        [
+            0,
+            {
+                "score": 0.9859224557876587,
+                "start": 2850,
+                "end": 2853,
+                "answer": "TVP"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.03143453598022461,
+                "start": 54,
+                "end": 179,
+                "answer": "Nel modulo sono riportate in dettaglio tutte le procedure \nper le quali \u00e8 indicata l\u2019esecuzione della profilassi antibiotica"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9669469594955444,
+                "start": 340,
+                "end": 350,
+                "answer": "amlodipina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.3605983257293701,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8850448131561279,
+                "start": 529,
+                "end": 551,
+                "answer": "ipertensione arteriosa"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.17259235680103302,
+                "start": 54,
+                "end": 63,
+                "answer": "Menicanti"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.15273545682430267,
+                "start": 441,
+                "end": 451,
+                "answer": "amiodarone"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.12624219059944153,
+                "start": 122,
+                "end": 134,
+                "answer": "reintervento"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9323714375495911,
+                "start": 4026,
+                "end": 4048,
+                "answer": "versamento pericardico"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.20097948610782623,
+                "start": 1,
+                "end": 10,
+                "answer": "Menicanti"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.11305467039346695,
+                "start": 420,
+                "end": 489,
+                "answer": "BISOPROLOLO 1.25 mg 1 cp alle ore 8 e 1 cp alle ore 20 \n-  FUROSEMIDE"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.1956140398979187,
+                "start": 598,
+                "end": 625,
+                "answer": "rivascolarizione miocardica"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8326916098594666,
+                "start": 3270,
+                "end": 3293,
+                "answer": "versamento  pericardico"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.037532005459070206,
+                "start": 163,
+                "end": 222,
+                "answer": "54%).\nVertebrali bilateralmente pervie \ned ortograde in V2"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.22033840417861938,
+                "start": 177,
+                "end": 189,
+                "answer": "PANTOPRAZOLO"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5724234580993652,
+                "start": 769,
+                "end": 786,
+                "answer": "pericardiocentesi"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.5296685099601746,
+                "start": 567,
+                "end": 579,
+                "answer": "ipertensione"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.2571060061454773,
+                "start": 158,
+                "end": 176,
+                "answer": "cinesi segmenatria"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.22950609028339386,
+                "start": 1607,
+                "end": 1651,
+                "answer": "ZOLPIDEM 10  1 cp alle ore 22 \n-  FUROSEMIDE"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.16176632046699524,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8359476327896118,
+                "start": 5862,
+                "end": 5872,
+                "answer": "DIMISSIONE"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.00604129396378994,
+                "start": 127,
+                "end": 157,
+                "answer": "Sars-Cov2 (01.06.21): negativo"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.7847118973731995,
+                "start": 769,
+                "end": 780,
+                "answer": "TAMSULOSINA"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.398158997297287,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6898707151412964,
+                "start": 321,
+                "end": 346,
+                "answer": "stenosi valvolare aortica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.07463973015546799,
+                "start": 164,
+                "end": 173,
+                "answer": "Menicanti"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.964609682559967,
+                "start": 1117,
+                "end": 1128,
+                "answer": "ENOXAPARINA"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.17316630482673645,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9646832942962646,
+                "start": 901,
+                "end": 905,
+                "answer": "BPCO"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.08300969004631042,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.6657686829566956,
+                "start": 927,
+                "end": 938,
+                "answer": "BISOPROLOLO"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.813241720199585,
+                "start": 1405,
+                "end": 1420,
+                "answer": "minitoracotomia"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.18489773571491241,
+                "start": 197,
+                "end": 228,
+                "answer": "insufficienza valvolare aortica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.021330837160348892,
+                "start": 108,
+                "end": 233,
+                "answer": "Nel modulo sono riportate in dettaglio tutte le procedure \nper le quali \u00e8 indicata l\u2019esecuzione della profilassi antibiotica"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.1384773552417755,
+                "start": 58,
+                "end": 68,
+                "answer": "Amlodipina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6024096012115479,
+                "start": 710,
+                "end": 748,
+                "answer": "plastica/ sostituzione valvola aortica"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.749627411365509,
+                "start": 2763,
+                "end": 2775,
+                "answer": "ipertensione"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.0043555572628974915,
+                "start": 176,
+                "end": 203,
+                "answer": "Ecocardiogramma TT 22.03.21"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.04717377945780754,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8814868927001953,
+                "start": 217,
+                "end": 254,
+                "answer": "riparazione / \nsostituzione valvolare"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.18374499678611755,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.08270525187253952,
+                "start": 1,
+                "end": 36,
+                "answer": "Non evidenti vizi valvolari\")\n    4"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.020684977993369102,
+                "start": 60,
+                "end": 83,
+                "answer": "TERAPIA IN ATTO\")\n    5"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9825451374053955,
+                "start": 32,
+                "end": 55,
+                "answer": "Agoaspirato linfonodale"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.14625295996665955,
+                "start": 1,
+                "end": 68,
+                "answer": "Non soffiare il naso mediante manovra di Valsalva per circa 1 mese"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.12498020380735397,
+                "start": 68,
+                "end": 75,
+                "answer": "saluti"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9456196427345276,
+                "start": 127,
+                "end": 137,
+                "answer": "analgesici"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.3834921717643738,
+                "start": 199,
+                "end": 222,
+                "answer": "etmoidectomia anteriore"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3345777094364166,
+                "start": 62,
+                "end": 78,
+                "answer": "Calcolosi renale"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.3793056309223175,
+                "start": 71,
+                "end": 97,
+                "answer": "Angiografia aorto splenica"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.1449396014213562,
+                "start": 1013,
+                "end": 1032,
+                "answer": "ansia e depressione"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.022667402401566505,
+                "start": 119,
+                "end": 155,
+                "answer": "L\u2019emotivit\u00e0 appare labile e intensa"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.28437677025794983,
+                "start": 478,
+                "end": 516,
+                "answer": "Analgesici al bisogno (es.\nTachipirina"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.08243363350629807,
+                "start": 72,
+                "end": 96,
+                "answer": "trombosi venosa profonda"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8798365592956543,
+                "start": 266,
+                "end": 289,
+                "answer": "insufficienza mitralica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.36445415019989014,
+                "start": 66,
+                "end": 74,
+                "answer": "DVI 0.35"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.17957280576229095,
+                "start": 1084,
+                "end": 1085,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8645336031913757,
+                "start": 1686,
+                "end": 1708,
+                "answer": "sostituzione valvolare"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.21526409685611725,
+                "start": 407,
+                "end": 425,
+                "answer": "elastocompressione"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6034782528877258,
+                "start": 141,
+                "end": 148,
+                "answer": "linfoma"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.4508463442325592,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.005285225808620453,
+                "start": 852,
+                "end": 912,
+                "answer": "Aspirinetta cpr 1 cpr die \nCardicor  1 cp  1,25  mg   1 bust"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6011734008789062,
+                "start": 88,
+                "end": 106,
+                "answer": "Epatopatia cronica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.024723529815673828,
+                "start": 118,
+                "end": 120,
+                "answer": "60"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.43941763043403625,
+                "start": 93,
+                "end": 109,
+                "answer": "MdC Iopamiro 370"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.30950021743774414,
+                "start": 1,
+                "end": 25,
+                "answer": "Ectasia aorta ascendente"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.13012073934078217,
+                "start": 1,
+                "end": 12,
+                "answer": "ARTRIOPATIA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.2612830102443695,
+                "start": 1,
+                "end": 15,
+                "answer": "Ombra cardiaca"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.0665239691734314,
+                "start": 750,
+                "end": 759,
+                "answer": "Congescor"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.5008507966995239,
+                "start": 120,
+                "end": 139,
+                "answer": "neoplasia del retto"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.22425854206085205,
+                "start": 314,
+                "end": 320,
+                "answer": "febbre"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.0385519303381443,
+                "start": 179,
+                "end": 185,
+                "answer": "108000"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.599037766456604,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.8215634226799011,
+                "start": 181,
+                "end": 191,
+                "answer": "ETG addome"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9947323203086853,
+                "start": 356,
+                "end": 377,
+                "answer": "fibrillazione atriale"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.016758596524596214,
+                "start": 117,
+                "end": 197,
+                "answer": "29/06): esame normale\nCOLONSCOPIA (29/06): anello emorroidario interno congesto"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.521385669708252,
+                "start": 54,
+                "end": 61,
+                "answer": "pradaxa"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.45005273818969727,
+                "start": 49,
+                "end": 53,
+                "answer": "EGDS"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9646869897842407,
+                "start": 990,
+                "end": 1005,
+                "answer": "artrite settica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.273208349943161,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.06835143268108368,
+                "start": 933,
+                "end": 944,
+                "answer": "Carvedilolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.15088418126106262,
+                "start": 12,
+                "end": 39,
+                "answer": "PCR, elettroforesi proteica"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.8347912430763245,
+                "start": 772,
+                "end": 775,
+                "answer": "CKD"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.17289969325065613,
+                "start": 310,
+                "end": 317,
+                "answer": "ZYLORIC"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.2948225140571594,
+                "start": 88,
+                "end": 137,
+                "answer": "emicolectomia destra per adenocarcinoma del colon"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6301047801971436,
+                "start": 3477,
+                "end": 3516,
+                "answer": "patologia infiammatoria demielinizzante"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.07527638971805573,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.7402011752128601,
+                "start": 459,
+                "end": 465,
+                "answer": "Keppra"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.24174457788467407,
+                "start": 1,
+                "end": 23,
+                "answer": "Complesso ventricolare"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9668078422546387,
+                "start": 162,
+                "end": 188,
+                "answer": "Cirrosi Epatica Esotossica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.2758341431617737,
+                "start": 1,
+                "end": 77,
+                "answer": "DECORSO CLINICO: miglioramento delle condizioni cliniche durante la degenza"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.2418501377105713,
+                "start": 293,
+                "end": 303,
+                "answer": "Vitaminici"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6247009634971619,
+                "start": 464,
+                "end": 471,
+                "answer": "ETG ADD"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6017017960548401,
+                "start": 116,
+                "end": 139,
+                "answer": "malattia renale cronica"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.01032063364982605,
+                "start": 143,
+                "end": 175,
+                "answer": "Filtrato glomerulare stimato sec"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.8598820567131042,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.29563724994659424,
+                "start": 94,
+                "end": 209,
+                "answer": "processo xifoideo e dell'arco costale inferiore di sin per cui si\ndesiste dal tentativo di posizionamento della PEG"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9719535112380981,
+                "start": 200,
+                "end": 222,
+                "answer": "Ipertensione arteriosa"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.025934625416994095,
+                "start": 858,
+                "end": 860,
+                "answer": "14"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9534800052642822,
+                "start": 1328,
+                "end": 1339,
+                "answer": "Ganciclovir"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.063990019261837,
+                "start": 838,
+                "end": 871,
+                "answer": "biopsie multiple di sigma e retto"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.6649488806724548,
+                "start": 3725,
+                "end": 3746,
+                "answer": "endocardite infettiva"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.09672302007675171,
+                "start": 66,
+                "end": 110,
+                "answer": "Radice aortica ed aorta ascendente regolari"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.13464157283306122,
+                "start": 700,
+                "end": 707,
+                "answer": "Pantorc"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.6038445830345154,
+                "start": 856,
+                "end": 867,
+                "answer": "sternotomia"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.9508020281791687,
+                "start": 611,
+                "end": 623,
+                "answer": "gastrectasia"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.987158477306366,
+                "start": 85,
+                "end": 97,
+                "answer": "Paracetamolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.4750567674636841,
+                "start": 216,
+                "end": 234,
+                "answer": "Brecce chirurgiche"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.7628239989280701,
+                "start": 22,
+                "end": 50,
+                "answer": "infezione delle vie urinarie"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.6131054759025574,
+                "start": 359,
+                "end": 371,
+                "answer": "Pantoprazolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.9754239916801453,
+                "start": 27,
+                "end": 45,
+                "answer": "sleeve gastrectomy"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.12498020380735397,
+                "start": 68,
+                "end": 75,
+                "answer": "saluti"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.947261393070221,
+                "start": 373,
+                "end": 382,
+                "answer": "Augmentin"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.4450160562992096,
+                "start": 22,
+                "end": 44,
+                "answer": "Trauma toracico chiuso"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.23129574954509735,
+                "start": 113,
+                "end": 122,
+                "answer": "tramadolo"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.2224268913269043,
+                "start": 247,
+                "end": 287,
+                "answer": "visita chirurgica toracica post ricovero"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.2641051709651947,
+                "start": 1,
+                "end": 20,
+                "answer": "Gozzo multinodulare"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0.11593305319547653,
+                "start": 1,
+                "end": 29,
+                "answer": "Deviazione assiale sinistra"
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.2114918828010559,
+                "start": 143,
+                "end": 150,
+                "answer": "Triglic"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.09079219400882721,
+                "start": 1,
+                "end": 21,
+                "answer": "Il Medico di Reparto"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9082008004188538,
+                "start": 106,
+                "end": 116,
+                "answer": "Analgesici"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.4218693673610687,
+                "start": 246,
+                "end": 295,
+                "answer": "Ernioplastica della parete addominale con protesi"
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.3309146463871002,
+                "start": 481,
+                "end": 488,
+                "answer": "ECD TSA"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ]
+    ],
+    [
+        [
+            0,
+            {
+                "score": 0.22850418090820312,
+                "start": 12,
+                "end": 26,
+                "answer": "CICLO DI RADIO"
+            }
+        ],
+        [
+            1,
+            {
+                "score": 0,
+                "start": 0,
+                "end": 0,
+                "answer": ""
+            }
+        ],
+        [
+            3,
+            {
+                "score": 0.9734740257263184,
+                "start": 178,
+                "end": 190,
+                "answer": "RMN ENCEFALO"
+            }
+        ],
+        [
+            4,
+            {
+                "score": 0.07695809751749039,
+                "start": 1,
+                "end": 28,
+                "answer": "LESIONE ESPANSIVA CEREBRALE"
+            }
+        ]
+    ]
+]
