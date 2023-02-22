@@ -8,6 +8,7 @@ TODO:
 - Systematic test with multiple models (extractive and generative)
 - Fine tune both extractive and generative models and replicate all tests
 - Search for other QABot datasets and translate them
+- Aggiungere pycache e .ipynb_checkpoints to gitignore
 
 DONE: 
 - Add BLEU score (check that code is correct)
